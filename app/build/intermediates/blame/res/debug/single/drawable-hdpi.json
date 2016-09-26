@@ -268,12 +268,12 @@
         "source": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
     },
     {
-        "merged": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png",
-        "source": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
-    },
-    {
         "merged": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search.png",
         "source": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
     },
     {
         "merged": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_normal.png",

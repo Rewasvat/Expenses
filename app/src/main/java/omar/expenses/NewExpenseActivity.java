@@ -68,6 +68,11 @@ public class NewExpenseActivity extends ActionBarActivity {
 		addToList(typeList, "TransportePúblico");
 		addToList(typeList, "Farmácia");
 		addToList(typeList, "Salário");
+		addToList(typeList, "Consórcio Carro");
+        addToList(typeList, "SemParar");
+        addToList(typeList, "Contas Casa");
+        addToList(typeList, "Seguro Carro");
+        addToList(typeList, "IPVA");
 
 		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, typeList);
 		adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
