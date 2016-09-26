@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_expense.xml",
+        "source": "D:\\Documents\\AndroidProjects\\Expenses\\app\\src\\main\\res\\menu\\new_expense.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidProjects\\Expenses\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Documents\\AndroidProjects\\Expenses\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

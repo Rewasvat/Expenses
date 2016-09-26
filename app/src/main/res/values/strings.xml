@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expenses</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">Novo Lançamento</string>
+    <string name="action_done">OK</string>
+    <string name="action_cancel">Cancela</string>
+    <string name="action_delete">Remove</string>
+    <string name="title_activity_new_expense">Novo Lançamento</string>
+    <string name="title_activity_edit_expense">Detalhes de Lançamento</string>
+    <string name="radio_predefined_typelist">Predefined/Existing List</string>
+    <string name="radio_newtype">Novo Tipo</string>
+    <string name="label_type">Tipo do Lançamento</string>
+    <string name="label_valor">Valor do Lançamento</string>
+    <string name="label_data">Data do Lançamento</string>
+    <string name="label_descricao">Descrição do Lançamento (opcional)</string>
+    <string name="is_expense">É despesa?</string>
+    <string name="label_balance">Balanço</string>
+    
+    <string name="teste">2358.76</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:expenses="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/action_done"
+          android:title="@string/action_done"
+          android:icon="@drawable/ic_action_accept"
+          expenses:showAsAction="always"/>
+    
+    <item android:id="@+id/action_cancel"
+          android:title="@string/action_cancel"
+          android:icon="@drawable/ic_action_cancel"
+          expenses:showAsAction="always"/>
+    
+    <item android:id="@+id/action_delete"
+          android:title="@string/action_delete"
+          android:icon="@drawable/ic_action_discard"
+          expenses:showAsAction="always"/>
+    
+</menu>
